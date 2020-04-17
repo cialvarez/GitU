@@ -119,6 +119,7 @@
 		E75B3ED92449F9D200777130 /* Git U */ = {
 			isa = PBXGroup;
 			children = (
+				E75B3EFF2449F9DD00777130 /* UsersList */,
 				E75B3F002449F9EF00777130 /* UserDetails */,
 				E75B3EDA2449F9D200777130 /* AppDelegate.swift */,
 				E75B3EDC2449F9D200777130 /* SceneDelegate.swift */,
@@ -152,7 +153,6 @@
 		E75B3F002449F9EF00777130 /* UserDetails */ = {
 			isa = PBXGroup;
 			children = (
-				E75B3EFF2449F9DD00777130 /* UsersList */,
 				E75B3F08244A015000777130 /* Views */,
 				E75B3EE02449F9D200777130 /* UserDetails.storyboard */,
 				E75B3EDE2449F9D200777130 /* UserDetailsViewController.swift */,
